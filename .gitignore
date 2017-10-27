@@ -1,0 +1,6 @@
+.*
+!.gitignore
+!.gitkeep
+
+/target
+/bin
